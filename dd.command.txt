@@ -1,0 +1,4 @@
+
+sudo dd if=linuxmint-18-mate-64bit.iso of=/dev/sdj oflag=direct  bs=1048576
+
+

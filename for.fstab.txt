@@ -1,0 +1,9 @@
+
+## tmpfs
+## tmpfs 	/tmp			tmpfs   defaults	0 	0
+tmpfs 	/var/tmp 		tmpfs	defaults	0 	0
+
+## .cache i RAM
+tmpfs	/home/<user>/.cache 	tmpfs 	defaults 	0 	0
+
+
