@@ -1,0 +1,73 @@
+##
+## /usr/share/doc/pyradio/stations.csv
+##
+Absolute 80s: Greatest Hits, 	http://icecast.timlradio.co.uk/a8128.mp3
+Absolute 60s: Greatest Hits, 	http://icecast.timlradio.co.uk/absoluteradio.co.uk/a6flac_backup.ogg.m3u
+Absolute 70s: Greatest Hits, 	http://icecast.timlradio.co.uk/absoluteradio.co.uk/a7flac_backup.ogg.m3u
+Absolute 80s: Greatest Hits, 	http://icecast.timlradio.co.uk/absoluteradio.co.uk/a8flac_backup.ogg.m3u
+Absolute 90s: Greatest Hits, 	http://icecast.timlradio.co.uk/absoluteradio.co.uk/a9flac_backup.ogg.m3u
+Absolute 00s: Greatest Hits, 	http://icecast.timlradio.co.uk/absoluteradio.co.uk/a0flac_backup.ogg.m3u
+Absolute Radio: Rock, 		http://icecast.timlradio.co.uk/absoluteradio.co.uk/acflac_backup.ogg.m3u
+Absolute Radio: Classic Rock,	http://icecast.timlradio.co.uk/ac128.mp3.m3u
+SKY.FM: Best of the 80s, 	http://www.sky.fm/mp3/the80s.pls
+Sveriges Radio P1,	 	http://http-live.sr.se/p1-mp3-192
+Sveriges Radio P2,		http://http-live.sr.se/p2-mp3-192
+Sveriges Radio P3,		http://http-live.sr.se/p3-mp3-192
+Sveriges Radio P4 Göteborg, 	http://sverigesradio.se/topsy/direkt/212-hi-mp3.m3u
+Sveriges Radio P4 V-norrland, 	http://sverigesradio.se/topsy/direkt/216-hi-mp3.m3u
+Rix FM, 			http://fm01-icecast.mtg-r.net/fm01_mp3
+Lugna favoriter, 		http://fm01-icecast.mtg-r.net/fm03_mp3
+Bandit Rock, 			http://fm01-icecast.mtg-r.net/fm02_mp3
+Bandit Classics, 		http://wr11-icecast.mtg-r.net/wr11_mp3
+Bandit Metal, 			http://wr03-icecast.mtg-r.net/wr03_mp3
+Mix Megapol Göteborg, 		http://194.16.21.227/mix_gbg_se_mp3.m3u
+## Radiogodis, 			http://www.radiogodis.se/Webradio/webbradio_192.m3u
+Radiogodis(192 kbps), 		http://213.114.202.210:8004
+Guldkanalen, 			http://www.guldkanalen.se/static/streamGK/128MP3.pls
+Guldkanalen 60-tal, 		http://www.guldkanalen.se/static/streamGK60/128MP3.pls
+Guldkanalen 70-tal,		http://www.guldkanalen.se/static/streamGK70/128MP3.pls
+Guldkanalen 80-tal,		http://www.guldkanalen.se/static/streamGK80/128MP3.pls
+Guldkanalen 90-tal,		http://www.guldkanalen.se/static/streamGK90/128MP3.pls
+Vinyl FM,			http://194.16.21.227/vinyl_se_mp3.m3u
+106.7 Rockklassiker,		http://194.16.21.227/rock_se_mp3.m3u
+Radio Partille,			http://62.209.164.60:8000/mp128.mp3
+Magic 80's Florida,		http://us2.internet-radio.com:8137
+Easy Hits Florida,		http://us1.internet-radio.com:8180
+Star FM, 			http://fm05-icecast.mtg-r.net/fm05_mp3
+Star 90’s, 			http://wr12-icecast.mtg-r.net/wr12_mp3
+Star 80’s, 			http://wr02-icecast.mtg-r.net/wr02_mp3
+Star 70’s, 			http://wr10-icecast.mtg-r.net/wr10_mp3
+Star 60’s, 			http://wr09-icecast.mtg-r.net/wr09_mp3
+Svenska Favoriter,	 	http://wr13-icecast.mtg-r.net/wr13_mp3
+Power Hit Radio, 		http://fm04-icecast.mtg-r.net/fm04_mp3
+Soul Classics,			http://wr08-icecast.mtg-r.net/wr08_mp3	
+Rockklassiker,			http://www.radioguide.fm/play/2781/11363.mp3
+##
+## Digitally Imported: Chillout, http://listen.di.fm/public3/chillout.pls
+## Digitally Imported: Chillout Dreams, http://listen.di.fm/public3/chilloutdreams.pls
+## Digitally Imported: Soulful House, http://listen.di.fm/public3/soulfulhouse.pls
+## Digitally Imported: Funky House, http://listen.di.fm/public3/funkyhouse.pls
+## Digitally Imported: Progressive, http://listen.di.fm/public3/progressive.pls
+## Digitally Imported: Lounge, http://listen.di.fm/public3/lounge.pls
+## Digitally Imported: PsyChill, http://listen.di.fm/public3/psychill.pls
+## Electronic Culture, http://www.shouted.fm/tunein/electro-dsl.m3u
+## Frequence 3 (Pop), http://streams.frequence3.net/hd-mp3.m3u
+## Ragga Kings, http://www.raggakings.net/listen.m3u
+## SKY.FM: Mostly Classical, http://www.sky.fm/mp3/classical.pls
+## SKY.FM: Jazz, http://www.sky.fm/mp3/jazz.pls
+## SKY.FM: Smooth Jazz, http://www.sky.fm/mp3/smoothjazz.pls
+## SKY.FM: Uptempo Smooth Jazz, http://www.sky.fm/mp3/uptemposmoothjazz.pls
+## SKY.FM: Salsa, http://www.sky.fm/mp3/salsa.pls
+## SKY.FM: Simply Soundtracks, http://www.sky.fm/mp3/soundtracks.pls
+## SKY.FM: Classic Rap, http://www.sky.fm/mp3/classicrap.pls
+## Slay Radio (C64 Remix), http://www.slayradio.org/tune_in.php/128kbps/listen.m3u
+## SomaFM: Groove Salad (Chillout), http://somafm.com/startstream=groovesalad.pls
+## SomaFM: Beat Blender (House), http://somafm.com/startstream=beatblender.pls
+## SomaFM: Cliq Hop, http://somafm.com/startstream=cliqhop.pls
+## SomaFM: Sonic Universe (Jazz), http://somafm.com/startstream=sonicuniverse.pls
+## SomaFM: Tags Trance Trip (Progressive), http://somafm.com/tagstrance.pls
+## SomaFM: Illinois Street Lounge (Lounge), http://somafm.com/illstreet.pls
+## SomaFM: Secret Agent (Downtempo), http://somafm.com/secretagent.pls
+## SomaFM: Covers, http://somafm.com/covers.pls
+## SomaFM: Digitalis (Rock), http://somafm.com/digitalis.pls
+## SomaFM: PopTron! (Pop), http://somafm.com/poptron.pls
